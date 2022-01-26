@@ -46,6 +46,8 @@ for item in my_list:
 
 
 #bonus
+print()
+print('Bonus: ')
 my_list = [13.1, 1.7, 1.8, 7.8, 1.2, 12.9, 10.6, 5.8, 3.0, 9.7, 18.6, 0.5, 7.6, 0.1]
 
 reverse = len(my_list)
