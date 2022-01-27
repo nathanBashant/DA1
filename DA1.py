@@ -1,3 +1,15 @@
+##############################################
+# Programmer: Nathan Bashant
+# Class: CptS 222-01, Spring 2022
+# Data Assignment #1
+# 1/27/22
+# I DID attempted the bonus
+# 
+# Description: This program sorts the following float point numbers into a column in order from greatet to least. It also comutes the min, max, average, median, and count. 
+# It also prompts the user for an index and then replaces that index with their input num
+##############################################
+
+
 #task 1
 my_list = [13.1, 1.7, 1.8, 7.8, 1.2, 12.9, 10.6, 5.8, 3.0, 9.7, 18.6, 0.5, 7.6, 0.1]
 i = 0
